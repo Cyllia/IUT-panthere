@@ -50,11 +50,15 @@ Icônes
 - Contenu orienté mots-clés locaux (Lyon, agence web, web design)
 
 #Installation & utilisation
+
 Télécharger ou cloner le projet
+
 Ouvrir index.html dans un navigateur web
+
 Aucune configuration serveur requise (site statique)
 
 #Localisation
+
 Agence basée à Lyon, spécialisée dans l’accompagnement des entreprises locales.
 
 #Réseaux sociaux
