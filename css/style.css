@@ -301,16 +301,14 @@ a:hover {
     line-height: 44px;
 }
 
-/* Modifiez la taille maximale ici */
 .navbar-brand img {
-    max-height: 250px; /* Augmenté de 200px à 250px (ou plus selon votre besoin) */
+    max-height: 250px;
     margin: 0 5px 0 0;
     display: inline;
 }
 
-/* Modifiez la largeur minimale pour le SVG */
 .navbar-brand img[src$=svg] {
-    min-width: 150px; /* Augmenté de 100px à 150px pour donner plus d'espace au logo */
+    min-width: 150px;
 }
 
 .nav-center .navbar-brand img {
